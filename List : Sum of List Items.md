@@ -1,8 +1,8 @@
 # List Operations in Python: Sum of List Items
 
-NAME: Swetha K
+NAME: Aman Singh
 
-REG NO: 212224230284
+REG NO: 212224040020
 
 
 ## 🎯 Aim
